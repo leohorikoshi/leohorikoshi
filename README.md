@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @leohorikoshi
-- 👀I'm interested in learning more about computing and using the platform to monitor my development.
-- 🌱 I'm studying computer engineering at the virtual university of Sao Paulo UNIVESP.
-- 💞️ I'm looking to collaborate on copyrighted creations.
+👋Olá!!! sou Leonardo Horikoshi 
+
+- 🧬⚛️ Estudante de Engenharia da Computação, e atuante na área de certificação digital.
+#
+
+• Suporte técnico (atendimento, tratativa de chamados);
+• Formatação e instalação de equipamentos;
+• Suporte de atendimento remoto;
+• Conhecimento em Rede (cabeamento estruturado, Switchs, Roteadores).
+• Conhecimento básico em Mac.
+• Conhecimento básico em Linux.
+• Conhecimento em Segurança da Informação.
+• Conhecimento em Governança de TI.
+• Conhecimentos em Cloud Computing.
+• Conhecimento em Pacote Office.
+
+##
 
 <div align="center">
   <a href="https://github.com/leohorikoshi">
