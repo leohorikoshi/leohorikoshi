@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Leonardo+Horikoshi;Tenho+27+anos;Sou+de+SãoPaulo,+SP;Estudo+Engenharia+da+Computação+na+UNIVESP;E+sou+formado+em+BTI+por+dupla+certificação+na+UNIVESP;SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
-- 🧬⚛️ Estudante de Engenharia da Computação, foramdo em BTI e atuando com suporte de sistema ERP OMIE
+- 🧬⚛️ Estudante de Engenharia da Computação, formado em BTI e atuando com suporte de sistema ERP OMIE
 #
 
 • Suporte técnico (atendimento, tratativa de chamados);
